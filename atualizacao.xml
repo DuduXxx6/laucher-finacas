@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <app>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
     <url>https://github.com/DuduXxx6/laucher</url>
-    <obrigatorio>1</obrigatorio>
+    <obrigatorio>0</obrigatorio>
 </app>
